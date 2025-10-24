@@ -1,2 +1,5 @@
-# TraListas
-Trabajo para Programacion Estructurada
+# Integrantes
+Blanca Zeledon
+Alfredo Montealegre
+Cristopher Santana
+Andy Rueda
