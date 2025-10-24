@@ -1,0 +1,15 @@
+C:\Users\monte\Desktop\PilasColas\caso3\bin\Debug\net9.0\Caso3.exe
+C:\Users\monte\Desktop\PilasColas\caso3\bin\Debug\net9.0\Caso3.deps.json
+C:\Users\monte\Desktop\PilasColas\caso3\bin\Debug\net9.0\Caso3.runtimeconfig.json
+C:\Users\monte\Desktop\PilasColas\caso3\bin\Debug\net9.0\Caso3.dll
+C:\Users\monte\Desktop\PilasColas\caso3\bin\Debug\net9.0\Caso3.pdb
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\Caso3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\Caso3.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\Caso3.AssemblyInfo.cs
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\Caso3.csproj.CoreCompileInputs.cache
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\Caso3.sourcelink.json
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\Caso3.dll
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\refint\Caso3.dll
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\Caso3.pdb
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\Caso3.genruntimeconfig.cache
+C:\Users\monte\Desktop\PilasColas\caso3\obj\Debug\net9.0\ref\Caso3.dll
